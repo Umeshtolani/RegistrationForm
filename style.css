@@ -3,7 +3,7 @@ body {
     background-color: #f8f9fa;
     margin: 0;
     padding: 20px;
-    background-image:url(new.webp);
+    background-image:url(disco.webp);
     background-size: cover;
 }
 
@@ -16,6 +16,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background-color: transparent;
     backdrop-filter: blur(5px);
+    color:white;
 }
 
 h2 {
